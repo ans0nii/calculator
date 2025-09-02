@@ -8,8 +8,11 @@
 }
 
 #number-input {
+  margin-left: 98px;
   height: 100px;
-  margin-left: 78px;
+  width: 150px;
+  font-size: 30px;
+  text-align: center;
 }
 
 #image {
@@ -58,7 +61,8 @@
   color: black;
 }
 
-#btn-clear{
-    background-color: red;
-    color: black;
+#btn-clear {
+  background-color: red;
+  color: black;
 }
+
