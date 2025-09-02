@@ -2,7 +2,7 @@
 
 ## Overview
 - This project will use HTML, JS, and CSS
-- It will feature all the main forms of calculations including (+, -, /, *, %, sqr root, and pi)
+- It will feature all the main forms of calculations including (+, -, /, *, %,)
 - 
 
 ## Learning goals
