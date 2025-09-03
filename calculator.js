@@ -22,7 +22,11 @@ document.querySelectorAll(".calc-button").forEach((element) => {
       });
 
       let result = equal(tokenArray);
-      display.value = result;
+     if (result.toString().length < 7){
+         display.value = result;
+     } else {
+        display.value = result.toExponential(6);
+     }
       return;
     }
 
