@@ -3,7 +3,6 @@
 ## Overview
 - This project will use HTML, JS, and CSS
 - It will feature all the main forms of calculations including (+, -, /, *, %,)
-- 
 
 ## Learning goals
 - Understand state management and memory handling
@@ -12,3 +11,4 @@
 - Create a very simple UI (consistent styling and non clustered interface)
 
 ### Live Demo
+**[Calculator]https://ans0nii.github.io/calculator/**
